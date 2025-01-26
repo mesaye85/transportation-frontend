@@ -13,7 +13,7 @@ export default function DriverForm({ drivers }) {
         </ul>
         </ul>
       </div>
-    );
+    )
   }
   
   DriverForm.propTypes = {
@@ -25,6 +25,6 @@ export default function DriverForm({ drivers }) {
       })
     ).isRequired,
   };
-    );
+    )
   }
   
